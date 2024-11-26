@@ -22,6 +22,6 @@ header:
     button:
       enable: true
       text: "Get Started"
-      url: "https://seu-master.github.io/seu.github.io/docs/"
+      url: "https://seu-master.github.io/seu.github.io/docs/getting-started/"
     show_search: false
     show_theme_chooser: true
